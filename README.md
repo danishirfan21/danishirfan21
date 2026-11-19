@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**danishirfan21/danishirfan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/thinking-screen.gif" alt="Animated green CRT terminal introducing Danish Irfan as a full-stack software engineer" width="960" />
 
-Here are some ideas to get you started:
+### Danish Irfan
+**Full-Stack Software Engineer · AI Workflows · Automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Explore repositories](https://github.com/danishirfan21?tab=repositories) · [View GitHub activity](https://github.com/danishirfan21)
+
+</div>
+
+---
+
+### System overview
+
+I build reliable full-stack applications, developer tooling, and automated testing systems.
+
+**Working with:** TypeScript · React · Angular · Python · .NET · Playwright · PostgreSQL
+
+<!-- This README runs on GitHub without JavaScript. The banner is a pre-rendered looping GIF. -->
