@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/thinking-screen.gif" alt="Animated green CRT terminal introducing Danish Irfan as a full-stack software engineer" width="960" />
+<img src="thinking-screen.gif" alt="Animated green CRT terminal introducing Danish Irfan as a full-stack software engineer" width="960" />
 
 ### Danish Irfan
 **Full-Stack Software Engineer · AI Workflows · Automation**
