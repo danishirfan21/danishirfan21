@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/thinking-screen.gif" alt="Animated green CRT terminal introducing Danish Irfan as a full-stack software engineer" width="960" />
+<img src="thinking-screen.gif" alt="Animated green CRT terminal introducing Danish Irfan as a full-stack software engineer" width="960" />
 
 # Danish Irfan
 ### `FULL-STACK SOFTWARE ENGINEER // AI WORKFLOWS // AUTOMATION`
@@ -12,7 +12,7 @@
 </div>
 
 <br/>
-<img src="assets/section-telemetry.svg" alt="Live Telemetry" width="100%" />
+<img src="section-telemetry.svg" alt="Live Telemetry" width="100%" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danishirfan21&show_icons=true&hide_border=true&bg_color=00000000&title_color=66ff99&text_color=c9d1d9&icon_color=39d353&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub stats" height="165" />
@@ -28,7 +28,7 @@
 </div>
 
 <br/>
-<img src="assets/section-overview.svg" alt="System Overview" width="100%" />
+<img src="section-overview.svg" alt="System Overview" width="100%" />
 
 ```bash
 > whoami
@@ -49,7 +49,7 @@ product-minded engineering
 ```
 
 <br/>
-<img src="assets/section-operations.svg" alt="Areas of Operation" width="100%" />
+<img src="section-operations.svg" alt="Areas of Operation" width="100%" />
 
 <table>
 <tr>
@@ -91,7 +91,7 @@ product-minded engineering
 </table>
 
 <br/>
-<img src="assets/section-stack.svg" alt="Stack and Tooling" width="100%" />
+<img src="section-stack.svg" alt="Stack and Tooling" width="100%" />
 
 <div align="center">
 
@@ -110,7 +110,7 @@ product-minded engineering
 </div>
 
 <br/>
-<img src="assets/section-map.svg" alt="System Map" width="100%" />
+<img src="section-map.svg" alt="System Map" width="100%" />
 
 ```text
 users
