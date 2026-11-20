@@ -1,0 +1,6 @@
+<svg width="960" height="54" viewBox="0 0 960 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="958" height="52" rx="4" fill="#050a07" stroke="#143926"/>
+  <path d="M22 27H288" stroke="#39d353" stroke-opacity="0.75"/>
+  <path d="M672 27H938" stroke="#39d353" stroke-opacity="0.75"/>
+  <text x="480" y="33" text-anchor="middle" fill="#66ff99" font-family="'Courier New', monospace" font-size="22" letter-spacing="2">LIVE TELEMETRY</text>
+</svg>
